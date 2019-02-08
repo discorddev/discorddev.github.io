@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Inside",
-    "currentPage": "blogpost1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -36,7 +36,7 @@
     "gdpr": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 52,
+    "uniqCompNum": 49,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png"
   },
@@ -120,9 +120,10 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/inside-invis-white-156x128.png",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "alt": "InsideDev",
+              "link": "index.html#header6-1",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -130,7 +131,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InsideDev</a>",
+          "brand": "<a class=\"navbar-caption text-info\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header6-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">InsideDev</a>",
           "_tags": [
             "Theme"
           ],
@@ -712,10 +713,9 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/inside-invis-156x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "InsideDev",
               "link": "blog.html#msg-box8-7",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1253,7 +1253,7 @@
               "active": true,
               "src": "@PROJECT_PATH@/assets/images/inside-invis-156x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "InsideDev",
               "link": "blog.html#msg-box8-7",
               "title": "",
               "linkInNewWindow": false
